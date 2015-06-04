@@ -1,0 +1,15 @@
+body{
+	height: 200px;
+	background: blue;
+}
+#tiger{
+	background: red;
+}
+h1{
+	display: block;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+p{
+	color: white;
+}
