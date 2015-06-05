@@ -1,3 +1,5 @@
+// reloading with gulp-connect server
+
 var gulp = require('gulp'),
     connect = require('gulp-connect'),
     watch = require('gulp-watch'),
